@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "data-cloud-platform",
+    "private_key_id": "fdcd5103403fb3887ff49a42e79265ffefd2bcd4",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuM8NlMVOQbcOv\n1zvtFdWeMNGBJNlXFTEzJVeXI5VLOXf2eK5m0WT6uuDuTgB9DRZT/e5MbpaXtgCL\nksSM/cB5tmhgM0FxwlyqkKSq6nEZDDcOSV6Y1t1H071viljXdhchja+v3scEsmi3\nVD+3TTzLR1quss/Km9Pa6vVgsJJuJ/6ljXDrX0wIjLxBngJ7ukIgVZql/wLoM7wR\nlTefaxBUklJMd2lswqqot3mtZ28JGACOPZ9RB9OAs3OtrZ9Y9S4aQ4AxAu4u1JsF\nwfO9AV+J6vFua/DIzSOxc8RP3NzyGS8Z1+a7hARiWT6DxJMuamDEVlFJ7TvMyg6X\nj5aigU7XAgMBAAECggEAKyHv+IdNHI7BDDHryZlFakTGKwbXtaMuqm5NkMOjvJt/\nI4zgCd9A9H//H6I6prvt0mAmd9BOA0RyQBzYA9z0om5Sy7cFNkicrzLfQt6HoF8Q\n5r2t6YQSCC3aUtrbgoXf1lQBszci6fvOx83ZdOZv7hk9z9HAd3c77pGMriMqLpHZ\n53/maObwUFtj0AAIgY1JfaEAkuJvIwE4bkspzD7GMfAClkZB9Zh8XGqiKNTS4vyC\n+wJnPlLY1sR1TaYiMSew9FBwGvdEpVKrzF8U9tFClWe/JIdlIzOAe6/h5p439vmi\nKQiGEybks1thoaePgZa4m4T93ToCV1CTHVCI8OgBIQKBgQDbwSueHyBepqVefzSW\nm13VBzEcidqyRRelGiCaSz6My8mu0/bRgFaT8zsYpDtOW0ni6MQrhmcQv0zd1mem\ne9kqX2atcYTOggkL0JNrHHJsf7Xe/w1Jjjo5z0PVR4IWFXVC8yHtdpWbDM3NZQUo\n30Pam2BFuf+UILeEXJrJDgdVZwKBgQDK7zUpmfo396/9PBB3ot5nyHCL3lixCdaq\n7FsCJdydxk6+WUyrnVA+k613JY3RdDc/ruMBt+JrLBcenmCm8wIz+TAleM88NGr9\n1GGMbkq+HbeceOPbU/63mhWYEQOKh92RBHtE05R5S7L2HNn+3v57JPnfasL8u3CT\nMWK6NzVlEQKBgDYZeil1NDzY/cEjw8iH+zOkj5yc+3ADvmxw4DHb8EwtJzuZBxxQ\nYgAOUzAfzlHd+3SXJSQp9FmVHtFGJUJBHxdlYRu15KIKNTvpX0FxQWIglp+NXrIL\nB56Pvf1Vm1rgcXvH60RQe0gugMPd6MVFIalBsxO3VIoc+9DkE18HyxplAoGBAK2J\nT1Hq/YFcyt9nvMFBwqTHUA8brYZ/XlY91jmI/RbinTXDkX/z/8nzaVRJBfSGSDSq\nLi+q+vEg/AhP8WDy0AB36Ecy/yyBurijJGP9cOcQ7JHfAyLsuhZxqmOmsPuG4d8A\nERWzRPVQ2ZIC7Bw6vy25WgBHAMU02LjWc5HAYmWxAoGAA1NMSABkE/ii7qCwNAaS\nUU2U3pINgk8qpSmytfXztS8oE2I+usBowuAXyE6hKLxHGvJdupWuJex7ZGMwCrp9\nf74pahEHWv5A0DqRAI5qiTmJTzSBS3T6P2kyx2dIr8W73mo9L+LkRZam+AOPFjAf\nNyR8YaQrupw0eBlfy3QsR88=\n-----END PRIVATE KEY-----\n",
+    "client_email": "streamlit-cims-app@data-cloud-platform.iam.gserviceaccount.com",
+    "client_id": "100410537821693416609",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-cims-app%40data-cloud-platform.iam.gserviceaccount.com"
+  }
+  
