@@ -380,8 +380,9 @@ Por ejemplo:
 
 creds = Credentials.from_authorized_user_info(info={"client_id": "abcdefg.apps.googleusercontent.com", "client_secret": "hijklmnopqrstuvwxyz", "refresh_token": "1234567890"})
 """
-creds = Credentials.from_authorized_user_info(info=None)
-storage_client = storage.Client(credentials=creds)
+#creds = Credentials.from_authorized_user_info(info=None)
+#storage_client = storage.Client(credentials=creds)
+storage_client = storage.Client.from_service_account_json(r'/home/mldevops2/streamlit_cims_app/storage_client.json')
 BUCKET_NAME = 'streamlit_app_cims'
 FOLDER_NAME = 'cims_all_company'
 bucket = storage_client.get_bucket(BUCKET_NAME)
